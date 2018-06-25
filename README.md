@@ -36,7 +36,7 @@ TeamTalk 详细介绍
 麻雀虽小五脏俱全，本项目涉及到多个平台、多种语言，简单关系如下图：
 
 teamtalk架构图
-
+![架构图](https://github.com/jdtsg/TeamTalk/blob/master/img/teamtalkorg.jpg)
 服务端：
 
 CppServer：TTCppServer工程，包括IM消息服务器、http服务器、文件传输服务器、文件存储服务器、登陆服务器 java DB Proxy：TTJavaServer工程，承载着后台消息存储、redis等接口 PHP server：TTPhpServer工程，teamtalk后台配置页面
